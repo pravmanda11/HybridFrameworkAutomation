@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="66274" started-at="2021-05-02T12:50:28 IST" finished-at="2021-05-02T12:51:34 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="66274" started-at="2021-05-02T12:50:28 IST" finished-at="2021-05-02T12:51:34 IST">
+      <class name="com.RanfordBank.testCases.TC_05_EndToEndPayment">
+        <test-method status="PASS" signature="setUpChrome()[pri:0, instance:com.RanfordBank.testCases.TC_05_EndToEndPayment@e320068]" name="setUpChrome" is-config="true" duration-ms="8547" started-at="2021-05-02T12:50:28 IST" finished-at="2021-05-02T12:50:36 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpChrome -->
+        <test-method status="PASS" signature="endToEndPayment()[pri:0, instance:com.RanfordBank.testCases.TC_05_EndToEndPayment@e320068]" name="endToEndPayment" duration-ms="55178" started-at="2021-05-02T12:50:36 IST" finished-at="2021-05-02T12:51:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endToEndPayment -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.RanfordBank.testCases.TC_05_EndToEndPayment@e320068]" name="tearDown" is-config="true" duration-ms="2470" started-at="2021-05-02T12:51:31 IST" finished-at="2021-05-02T12:51:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.RanfordBank.testCases.TC_05_EndToEndPayment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
